@@ -2,6 +2,7 @@
 
 Making Pandas DataFrames from API Requests
 
-In this example, I used the U.S. Geological Survey's API to grab a JSON of earthquake data and convert it to a pandas DataFrame.
+
+I used the U.S. Geological Survey's API to grab a JSON of earthquake data and convert it to a pandas DataFrame.
 
 USGS API: https://earthquake.usgs.gov/fdsnws/event/1/
